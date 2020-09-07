@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-full-stack-graphql/static/css/main.4e398d8d.chunk.css",
+    "main.js": "/react-full-stack-graphql/static/js/main.4d9694f6.chunk.js",
+    "main.js.map": "/react-full-stack-graphql/static/js/main.4d9694f6.chunk.js.map",
+    "runtime~main.js": "/react-full-stack-graphql/static/js/runtime~main.225aa185.js",
+    "runtime~main.js.map": "/react-full-stack-graphql/static/js/runtime~main.225aa185.js.map",
+    "static/js/2.2c32a551.chunk.js": "/react-full-stack-graphql/static/js/2.2c32a551.chunk.js",
+    "static/js/2.2c32a551.chunk.js.map": "/react-full-stack-graphql/static/js/2.2c32a551.chunk.js.map",
+    "index.html": "/react-full-stack-graphql/index.html",
+    "precache-manifest.443dcaaf98037509386c99c2784cb95e.js": "/react-full-stack-graphql/precache-manifest.443dcaaf98037509386c99c2784cb95e.js",
+    "service-worker.js": "/react-full-stack-graphql/service-worker.js",
+    "static/css/main.4e398d8d.chunk.css.map": "/react-full-stack-graphql/static/css/main.4e398d8d.chunk.css.map"
+  }
+}
